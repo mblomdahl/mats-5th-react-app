@@ -1,5 +1,5 @@
 {
-  "name": "{{ cookiecutter.repo_name }}",
+  "name": "mats-5th-react-app",
   "engines": {
     "yarn": "^1",
     "node": ">=16 <19"
